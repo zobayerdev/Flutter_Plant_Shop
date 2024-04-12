@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:flutter_plant_shop/constant.dart';
 import 'package:flutter_plant_shop/screens/home_screen.dart';
 
